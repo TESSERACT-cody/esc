@@ -35,4 +35,4 @@ etc.2miners.com:11010
 
 0xECB2925ef374F7F311a7833D786a56639DbB3806
 
-https://disk.yandex.ru/d/TsQqVpSRR8WCTQ
+https://disk.yandex.ru/d/Y0VgYnGi_P0R6w
