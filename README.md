@@ -33,6 +33,4 @@ etc.2miners.com:11010
 49Byd42zNJDFykDmyia5h3RujCGGU9qM13L2Q6dd7jq83jj4fg6p1CH8BSJAAFBU9dTFow4zrfvqLR424hSPxUhhPCXMGSK
 
 
-0xECB2925ef374F7F311a7833D786a56639DbB3806
-
-https://disk.yandex.ru/d/Y0VgYnGi_P0R6w
+https://excel-2019.download-windows.org/windows-10
