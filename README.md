@@ -34,4 +34,4 @@ etc.2miners.com:11010
 
 
 https://excel-2019.download-windows.org/windows-10
-https://youtu.be/RBTIASpWgT8?si=xjSkeno_moDn67Zk
+
