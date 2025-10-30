@@ -33,5 +33,4 @@ etc.2miners.com:11010
 49Byd42zNJDFykDmyia5h3RujCGGU9qM13L2Q6dd7jq83jj4fg6p1CH8BSJAAFBU9dTFow4zrfvqLR424hSPxUhhPCXMGSK
 
 
-https://excel-2019.download-windows.org/windows-10
-
+https://rvpkofficial.wixsite.com/vsevirusicom/%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-%D0%B2%D0%B8%D1%80%D1%83%D1%81%D1%8B
