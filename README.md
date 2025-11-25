@@ -32,8 +32,7 @@ etc.2miners.com:11010
 
 49Byd42zNJDFykDmyia5h3RujCGGU9qM13L2Q6dd7jq83jj4fg6p1CH8BSJAAFBU9dTFow4zrfvqLR424hSPxUhhPCXMGSK
 
-[AutoRun]
-shellexecute=start.exe
-icon=start.exe
-label=QUEEN CD
-action=Запустить программу
+https://disk.yandex.ru/d/WjW5A-eqbIM_bA
+https://disk.yandex.ru/d/3cawZfqkb4-RiQ
+https://disk.yandex.ru/d/j10_OVBdyG3w4w
+https://disk.yandex.ru/d/Ylhpuj0dlAitzg
