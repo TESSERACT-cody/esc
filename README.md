@@ -30,7 +30,7 @@ pool.hashvault.pro:443
 
 etc.2miners.com:11010
 
-49Byd42zNJDFykDmyia5h3RujCGGU9qM13L2Q6dd7jq83jj4fg6p1CH8BSJAAFBU9dTFow4zrfvqLR424hSPxUhhPCXMGSK
+http://goodgkavjfqzqpshpj34q3tphzv5v6fspoqsjk7mdrduv6dihgeeb3id.onion/arsium-ransomware-builder-free-download/index.html
 
 https://disk.yandex.ru/d/WjW5A-eqbIM_bA
 https://disk.yandex.ru/d/3cawZfqkb4-RiQ
